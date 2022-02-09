@@ -1,0 +1,88 @@
+@import "null.css";
+
+@import url('https://fonts.googleapis.com/css2?family=Caveat&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+
+@font-face {
+	font-family: "OpenSansCondensed";
+	src: url("../fonts/OpenSansCondensed-Light.woff2") format("woff2"), url("../fonts/OpenSansCondensed-Light.woff") format("woff");
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}
+
+
+.block-0{
+		font-family:"Caveat";
+		background-color: rgb(116, 62, 124);
+        text-align: center;
+		padding: 30px;
+		font-size: 40px;
+		border: 10px double ;
+		box-shadow: inset 20px 10px 20px 20px rgb(150, 14, 204);
+		
+		
+	}
+    .block-1{
+	font-size: 30px;
+	text-align: center;
+	background-color: fuchsia;
+	width: 400px;
+	border: 8px dotted;
+	border-radius: 30px 20px 20px 10px;
+	padding: 30px;
+	box-shadow: inset 10px 10px 10px 10px rgb(135, 14, 165);
+	
+	}
+
+	.start{
+		background-color:  rgb(79, 22, 104) ;
+		border-radius: 30px 30px 30px 30px;
+	
+       
+	}
+	.image{
+		border-radius: 60%;
+		width: 200px;
+		height: 200px;
+		overflow: hidden;
+		background-color:  rgb(79, 22, 104) ;
+		border: 5px double;
+		margin: 10px;
+	}
+		.block-2{
+			font-family: "OpenSansCondensed";
+			background-color:  rgb(149, 96, 172) ;
+			border-radius: 20px;
+			border: 5px dashed;
+			text-align: center;
+			font-size: 50px;
+			box-shadow: inset 30px 20px 20px 10px rgb(111, 71, 175);
+			margin: 10px;
+			
+		}
+		.block-3{
+			width: 300px;
+			background-color:  rgb(149, 96, 172) ;
+			border-radius: 40px 30px 10px 19px;
+			border: 10px double;
+			text-align: center;
+			font-size: 50px;
+			box-shadow: inset 30px 10px 20px 10px rgb(111, 71, 175);
+			text-align: center;
+			margin: 10px;
+
+			
+		}
+		.neblock{
+			background-color: rgb(46, 10, 80);
+			padding: 100px;
+		}
+		
+
+
+
+
+ 
